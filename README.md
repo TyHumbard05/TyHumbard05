@@ -1,59 +1,48 @@
-# Hi, I'm Ty 👋
+# Hi, I'm Ty Humbard
 
-I'm a Computer Science student at **Missouri University of Science and Technology** with a minor in Computer Engineering.
+Computer Science student at **Missouri University of Science and Technology** with a minor in Computer Engineering. I'm focused on software engineering, artificial intelligence, automation, and computer vision.
 
-I'm currently an **AI / Software Intern at VictoryXR** and a **Team Lead / Systems Engineer** for FormSense, a computer-vision capstone project focused on exercise-form analysis.
+- AI / Software Intern at **VictoryXR**
+- Team Lead / Systems Engineer for **FormSense**
+- B.S. Computer Science, expected May 2028
+- GPA: **3.89**
+- APEX AI micro-credential
 
-## What I'm Working On
+## Featured Projects
 
-### FormSense
+### [FormSense](https://github.com/TyHumbard05/FormSense)
+AI Exercise Form and Rehab Coach — a capstone project using computer vision to analyze exercise movement, calculate joint angles, count repetitions, and provide form feedback.
 
-Computer-vision application that analyzes exercise movements using pose estimation, joint-angle calculations, repetition tracking, and real-time feedback.
+**Role:** Team Lead / Systems Engineer  
+**Planned stack:** Python, OpenCV, MediaPipe, FastAPI, React
 
-**Role:** Team Lead / Systems Engineer
+### [AI Lead Generation Agent](https://github.com/TyHumbard05/ai-lead-generation-agent)
+AI-assisted lead research and enrichment system focused on business discovery, website verification, contact enrichment, structured scoring, and human-review safeguards.
 
-**Technologies:** Python, OpenCV, MediaPipe, FastAPI, React
+### [AI Agent Projects](https://github.com/TyHumbard05/ai-agent-projects)
+A growing collection of smaller experiments with AI agents, APIs, automation, tool use, and structured workflows.
 
-### AI & Automation
+## Experience
 
-I'm exploring AI-agent systems that automate multi-step workflows, interact with APIs, gather information, and make structured decisions.
+### VictoryXR — AI / Software Intern
+Working with AI-focused platforms including **ARES** and **HoloTutor** while gaining hands-on experience with AI-agent workflows, automation, development environments, APIs, GitHub, and Linux-based tooling.
 
-### VictoryXR
+## Technical Skills
 
-Working with AI-focused platforms including **ARES** and **HoloTutor** while gaining experience with AI agents, automation, platform integrations, and software development.
+**Languages:** Python, C++, C, SQL  
+**AI / Computer Vision:** AI Agents, OpenCV, MediaPipe, Machine Learning, Pose Estimation  
+**Web / Backend:** FastAPI, React, REST APIs, Node.js  
+**Tools:** Git, GitHub, Linux, WSL, Docker, VS Code
 
-## Technologies
+## Current Interests
 
-**Languages**
+- Software Engineering
+- Artificial Intelligence / Machine Learning
+- AI Agents & Automation
+- Computer Vision
+- Backend Development
+- Applied AI
 
-`Python` `C++` `C` `SQL`
+## What I'm Looking For
 
-**Software & Web**
-
-`FastAPI` `React` `REST APIs` `Node.js`
-
-**AI / Computer Vision**
-
-`AI Agents` `OpenCV` `MediaPipe` `Machine Learning` `Pose Estimation`
-
-**Tools**
-
-`Git` `GitHub` `Linux` `WSL` `Docker` `VS Code`
-
-## Areas I'm Interested In
-
-* Software Engineering
-* Artificial Intelligence
-* AI Agents & Automation
-* Computer Vision
-* Backend Development
-* Applied Machine Learning
-
-## Currently
-
-🎓 B.S. Computer Science — Missouri S&T
-💻 AI / Software Intern — VictoryXR
-👥 Team Lead — FormSense
-📍 Rolla, Missouri
-
-I'm interested in software engineering, AI/ML, computer vision, and automation internship opportunities.
+I'm interested in **software engineering, AI/ML, computer vision, and automation internship opportunities** where I can contribute to real systems while continuing to grow as a developer.
