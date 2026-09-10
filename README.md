@@ -10,17 +10,17 @@ Computer Science student at **Missouri University of Science and Technology** wi
 
 ## Featured Projects
 
+### [AI Lead Generation Agent](https://github.com/TyHumbard05/ai-lead-generation-agent)
+A runnable FastAPI project that uses the Brave Search API, deterministic website verification, explainable scoring, batch workflows, and human-review safeguards to research business website candidates without overstating uncertain results.
+
+### [AI Agent Projects](https://github.com/TyHumbard05/ai-agent-projects)
+Three focused AI-agent experiments covering structured support-ticket triage, research planning, and safe allowlisted tool routing. Includes automated tests and GitHub Actions CI.
+
 ### [FormSense](https://github.com/TyHumbard05/FormSense)
-AI Exercise Form and Rehab Coach — a capstone project using computer vision to analyze exercise movement, calculate joint angles, count repetitions, and provide form feedback.
+AI Exercise Form and Rehab Coach — an active capstone project planned around computer vision, pose estimation, joint-angle calculations, repetition tracking, and form feedback.
 
 **Role:** Team Lead / Systems Engineer  
 **Planned stack:** Python, OpenCV, MediaPipe, FastAPI, React
-
-### [AI Lead Generation Agent](https://github.com/TyHumbard05/ai-lead-generation-agent)
-AI-assisted lead research and enrichment system focused on business discovery, website verification, contact enrichment, structured scoring, and human-review safeguards.
-
-### [AI Agent Projects](https://github.com/TyHumbard05/ai-agent-projects)
-A growing collection of smaller experiments with AI agents, APIs, automation, tool use, and structured workflows.
 
 ## Experience
 
